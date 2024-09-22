@@ -16,6 +16,8 @@ The purpose of this script is to provide an easy way to monitor the total number
 ## Requirements
 - `redis-cli` must be installed and accessible in your PATH.
 
-## Usage
-   ```bash
-   bash path/to/your_script.sh
+## Usage:
+To execute the script, run the following command:
+
+```bash
+./redis_cluster_key_count.sh
