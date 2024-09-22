@@ -21,7 +21,6 @@ This Bash script monitors the memory usage of multiple Redis clusters. If memory
 - **Redis CLI**: Must be installed and accessible on the system.
 - **Java**: Required to run the cron job that pauses XML adserving.
 - **SMTP CLI**: Used for sending email alerts (`smtp-cli` must be installed).
-- **Zabbix**: Configured Zabbix UserParameter to track Redis memory usage.
 
 ## Usage:
 To execute the script, run the following command:
